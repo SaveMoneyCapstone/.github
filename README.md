@@ -1,2 +1,1 @@
-# .github
-About our team and project details
+Repository Capstone Project Bangkit Academy 2023 Team CH2-PS089
