@@ -1,6 +1,18 @@
 ## Hi there 👋
 Repository Capstone Project Bangkit Academy 2023 Team CH2-PS089
 
+### Our Member
+
+|           Name           | Bangkit ID  |        Role        |                       Github                        |
+| :----------------------: | :--------:  | :----------------: | :-------------------------------------------------: |
+|   Faishal Ananta Ridha   | C363BSY3380 |  Cloud Computing   |       [Github](https://github.com/isallkun)         |
+|   Arka Tri Labda Wasana  | C227BSY3664 |  Cloud Computing   |      [Github](https://github.com/fauzywijaya)       |
+|    Adriansyah Syaputra   | A211BSY1929 | Mobile Development |        [Github](https://github.com/deeandra)        |
+|       Usmar Manalu       | A193BSY2288  | Mobile Development |         [Github](https://github.com/wil-ma)         |
+|    Abdul Azis Sukmawan   | M142BSY1439  |  Machine Learning  | [Github](https://github.com/SalmaShafiraKhairaldin) |
+|   Salsabila Dzikra Dasha | M010BSX0605  |  Machine Learning  |        [Github](https://github.com/medival)         |
+|       Wisnu Purnomo      | M180BSY0681  |  Machine Learning  |        [Github](https://github.com/medival)         |
+
 <!--
 
 **Here are some ideas to get you started:**
