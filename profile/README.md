@@ -4,7 +4,7 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS089
 ## Introduction
 **SaveMoney: Easy Save Your Money, Makes You Happy**. An application designed to efficiently consolidate and manage finances. With a user-friendly and intuitive interface, this app can help users track their expenses more easily. It also serves as a comprehensive tool that enhances financial literacy and aids individuals in achieving their financial goals. 📱💸
 
-### Our Member
+## Our Member
 
 |           Name           | Bangkit ID  |        Role        |                       Github                         |
 | :----------------------: | :--------:  | :----------------: | :-------------------------------------------------:  |
